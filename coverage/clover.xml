@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1709891097511" clover="3.2.0">
+  <project timestamp="1709891097511" name="All files">
+    <metrics statements="22" coveredstatements="22" conditionals="10" coveredconditionals="10" methods="7" coveredmethods="7" elements="39" coveredelements="39" complexity="0" loc="22" ncloc="22" packages="1" files="1" classes="1"/>
+    <file name="PasswordChecker.ts" path="/Users/gouravkumar/Documents/projects/jestTest/src/app/pass_checker/PasswordChecker.ts">
+      <metrics statements="22" coveredstatements="22" conditionals="10" coveredconditionals="10" methods="7" coveredmethods="7"/>
+      <line num="1" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="8" type="stmt"/>
+      <line num="16" count="8" type="stmt"/>
+      <line num="17" count="8" type="stmt"/>
+      <line num="18" count="8" type="stmt"/>
+      <line num="20" count="8" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="38" count="8" type="cond" truecount="1" falsecount="0"/>
+      <line num="41" count="8" type="cond" truecount="1" falsecount="0"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="46" count="8" type="cond" truecount="1" falsecount="0"/>
+      <line num="47" count="2" type="stmt"/>
+      <line num="51" count="2" type="stmt"/>
+      <line num="52" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="53" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -1,4 +1,24 @@
 fileignoreconfig:
 - filename: package-lock.json
   checksum: 9e12eec2e4f778a39d5830cb8c428768cde68483c89f60bc03fd3b888483f1f6
+- filename: coverage/clover.xml
+  checksum: b5089625b0545e081c66263673712579bc9636bb10a873eb48971574f6e3590a
+- filename: coverage/lcov-report/block-navigation.js
+  checksum: 669866acf504f045d26d0a042510078c500c49eaf761696c85ecbc909bfd7d5d
+- filename: coverage/lcov-report/index.html
+  checksum: 67bc8bc2fc03eacbd6d553688ea942709399f42e4b51718f2d487e6c9e9467ed
+- filename: src/app/pass_checker/PasswordChecker.ts
+  checksum: a64b68a78eef02698845fdc81a33a75a0da6ba5c5a15de61114d59732aa5c0df
+- filename: coverage/lcov-report/base.css
+  checksum: d8f63ddcb2ba75c2c678d401d19519b14253caba279ba3b20ea318ac22809a84
+- filename: src/test/pass_checker/PasswordChecker.test.ts
+  checksum: 658489e474b5e890dd78e67b5801578780f389a9d69ff1344dd9b1f15f99225c
+- filename: coverage/coverage-final.json
+  checksum: 40172a77a1a4e5353666e47fa7fadea77f299424785e22d1bd8058b897551aaf
+- filename: coverage/lcov-report/sorter.js
+  checksum: 81c7e389a85cac433c864b829ebe58568493aa961d32705fbf49c14402db62b9
+- filename: coverage/lcov-report/PasswordChecker.ts.html
+  checksum: 8037a8589ecce6a6068e420b2ec440176f8a4b006cda2fc8c9f7d6b2f81f6c5e
+- filename: coverage/lcov-report/prettify.js
+  checksum: 7bcccf321d8300caad09fe4921871806b5b1c6ae3a9f36f3ebf3f40389c37e9c
 version: ""
