@@ -1,4 +1,5 @@
 import {
+  OtherStringUtils,
   calculateComplexity,
   toUpperCaseWithCb,
 } from "../../app/doubles/Utils";
@@ -60,5 +61,25 @@ describe("Doubles utils test suite", () => {
 
     const actual = calculateComplexity(someInfo as any);
     expect(actual).toBe(10);
+  });
+
+  describe("OtherUtils test suite", () => {
+    let sut: OtherStringUtils;
+
+    beforeEach(() => {
+      sut = new OtherStringUtils();
+    });
+
+    it("Use a spy to track calls", () => {
+      const toUpperCaseSpy = jest.spyOn(sut, "toUpperCase");
+      sut.toUpperCase("asa");
+      expect(toUpperCaseSpy).toBeCalledWith("asa");
+    });
+
+    it("Use a spy to tracj calls", () => {
+      const consoleLogSpy = jest.spyOn(console, "log");
+      sut.logString("abc");
+      expect(consoleLogSpy).toBeCalledWith("abc");
+    });
   });
 });
