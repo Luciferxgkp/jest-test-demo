@@ -1,16 +1,18 @@
 fileignoreconfig:
-- filename: package-lock.json
-  checksum: e7d9cba7bace405826fed331edafe12d970e922be2dc4888b9d29cbc1241fcb2
-- filename: src/server_app/auth/IUsersHandler.ts
-  checksum: fffb9910df0e4bf6f03a7622c44575af850920a89c3f4e06c7a6ae5399723638
-- filename: src/server_app/data/DataBase.ts
-  checksum: 4a42061fbcc5e654a602072398299e9281e12561e47fd54991c3816c4aaebb9e
-- filename: src/server_app/data/ReservationsDataAccess.ts
-  checksum: b977a9d145c25759aff8eaea9e6c92cfaf4568c5538b7e7b760e3f0c1a3a132f
-- filename: src/server_app/auth/Authorizer.ts
-  checksum: 145de4945d41a0bfc1c9b5ad8600802aeeabec9f0ec4c59677f2599b4565b801
-- filename: src/server_app/requests-auth.http
-  checksum: f272a5fac3f70503a5678244edb768d86de2b4142515a4013a9acd29f742d3e4
-- filename: src/server_app/handlers/ReservationsHandler.ts
-  checksum: 1b393f65162eab0503a506ddc3f0bc0090e1dbaefc39889233f6759982ddc751
+  - filename: package-lock.json
+    checksum: e7d9cba7bace405826fed331edafe12d970e922be2dc4888b9d29cbc1241fcb2
+  - filename: src/server_app/auth/IUsersHandler.ts
+    checksum: fffb9910df0e4bf6f03a7622c44575af850920a89c3f4e06c7a6ae5399723638
+  - filename: src/server_app/data/DataBase.ts
+    checksum: 4a42061fbcc5e654a602072398299e9281e12561e47fd54991c3816c4aaebb9e
+  - filename: src/server_app/data/ReservationsDataAccess.ts
+    checksum: b977a9d145c25759aff8eaea9e6c92cfaf4568c5538b7e7b760e3f0c1a3a132f
+  - filename: src/server_app/auth/Authorizer.ts
+    checksum: 145de4945d41a0bfc1c9b5ad8600802aeeabec9f0ec4c59677f2599b4565b801
+  - filename: src/server_app/requests-auth.http
+    checksum: f272a5fac3f70503a5678244edb768d86de2b4142515a4013a9acd29f742d3e4
+  - filename: src/server_app/handlers/ReservationsHandler.ts
+    checksum: 1b393f65162eab0503a506ddc3f0bc0090e1dbaefc39889233f6759982ddc751'
+  - filename: src/test/server_app/data/UserCredentialsDataAccess.test.ts
+    checksum: d0f59b3e1f81e8e3042b78e3cbddc0178b49e585e6ed807633c031543ca21607
 version: ""
