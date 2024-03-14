@@ -17,4 +17,8 @@ fileignoreconfig:
     checksum: d0f59b3e1f81e8e3042b78e3cbddc0178b49e585e6ed807633c031543ca21607
   - filename: src/test/server_app/data/SessionTokenDataAccess.test.ts
     checksum: aeafffa2e2c780da5985fa4b645960d9bf936e99dfa12abf86895a3feba73997
+  - filename: src/test/server_app/handlers/RegisterHandler.test.ts
+    checksum: f160e0cf85951a3da93647601fac1f4cb57c204df9a15c4a861b1052327fc647
+  - filename: src/test/server_app/handlers/LoginHandler.test.ts
+    checksum: 4e479fec46fe9f7f05bb1fcccfd3e9a9eceabe9ae3a9a4d196b3bb3e3b4032a9
 version: ""
