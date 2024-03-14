@@ -15,4 +15,6 @@ fileignoreconfig:
     checksum: 1b393f65162eab0503a506ddc3f0bc0090e1dbaefc39889233f6759982ddc751'
   - filename: src/test/server_app/data/UserCredentialsDataAccess.test.ts
     checksum: d0f59b3e1f81e8e3042b78e3cbddc0178b49e585e6ed807633c031543ca21607
+  - filename: src/test/server_app/data/SessionTokenDataAccess.test.ts
+    checksum: aeafffa2e2c780da5985fa4b645960d9bf936e99dfa12abf86895a3feba73997
 version: ""
