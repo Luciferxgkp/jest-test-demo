@@ -23,4 +23,8 @@ fileignoreconfig:
     checksum: 4e479fec46fe9f7f05bb1fcccfd3e9a9eceabe9ae3a9a4d196b3bb3e3b4032a9
   - filename: src/test/server_app/auth/Authorizer.test.ts
     checksum: 62b71fd217e48ff5c06aab2dd186c1c2db792f400e23fb0a62b1235ae023e6f4
+  - filename: src/test/server_app2/LoginRequests.test.ts
+    checksum: 697ba3a56393e632713adb965ea175beb433a7b5666d3964f37826de675539ab
+  - filename: src/test/server_app2/RegisterRequests.test.ts
+    checksum: f81eabc413b894797c8eb92e5193125dba22850ab8e5c6fa4102a3fa05d6746f
 version: ""
