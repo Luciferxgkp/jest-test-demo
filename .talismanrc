@@ -21,4 +21,6 @@ fileignoreconfig:
     checksum: f160e0cf85951a3da93647601fac1f4cb57c204df9a15c4a861b1052327fc647
   - filename: src/test/server_app/handlers/LoginHandler.test.ts
     checksum: 4e479fec46fe9f7f05bb1fcccfd3e9a9eceabe9ae3a9a4d196b3bb3e3b4032a9
+  - filename: src/test/server_app/auth/Authorizer.test.ts
+    checksum: 62b71fd217e48ff5c06aab2dd186c1c2db792f400e23fb0a62b1235ae023e6f4
 version: ""
