@@ -29,4 +29,6 @@ fileignoreconfig:
     checksum: f81eabc413b894797c8eb92e5193125dba22850ab8e5c6fa4102a3fa05d6746f
   - filename: src/test/server_app3/Itest.test.ts
     checksum: b8ddcbeea3cfb8a4d8f3acec1d5b5fce37e3ec77864f7fe363a87988258788fb
+  - filename: src/test/server_app3/customMatcher.test.ts
+    checksum: 5f21600cb00e4909aa568d997d046c8c6b569583bae47115a24dfeab1db4f4ef
 version: ""
